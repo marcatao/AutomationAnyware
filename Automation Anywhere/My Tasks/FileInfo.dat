@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="SGE - Integração bases Filial 1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/26/2019 08:51:33</Property>
+      <Property Name="RunDuration">00:00:38</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SGE - Fechamento de estoque.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/23/2019 14:46:31</Property>
+      <Property Name="RunDuration">00:19:17</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SGE - Download XML NFE.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/23/2019 14:59:41</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SGE - LANCAMENTO NF ENTRADA.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/26/2020 16:46:03</Property>
+      <Property Name="RunDuration">00:02:05</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SGE - IMPORTACAO XMLS.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/26/2020 16:43:58</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="XML - Leitura de itens NFe.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/22/2019 08:13:42</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Failed</Property>
+      <Property Name="VCSFileStatus">None</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="teste2.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/08/2019 16:26:11</Property>
+      <Property Name="RunDuration">00:00:19</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SGE - Integracao base producao.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/26/2019 08:43:34</Property>
+      <Property Name="RunDuration">00:03:35</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SGE - PREÇO MEDIO.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/07/2020 15:13:44</Property>
+      <Property Name="RunDuration">00:07:51</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SGE - LANÇAMENTO ESTOQUE.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/18/2019 15:50:52</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="teste.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/17/2020 10:44:33</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="limpaendereços.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/08/2020 16:45:49</Property>
+      <Property Name="RunDuration">00:05:07</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Dirf_2020_1.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/21/2020 08:36:52</Property>
+      <Property Name="RunDuration">00:06:45</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="testeExcel.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/17/2020 13:37:42</Property>
+      <Property Name="RunDuration">00:00:49</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="digitaDirf.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/19/2020 15:25:49</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="teste_dirf.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/19/2020 14:21:06</Property>
+      <Property Name="RunDuration">00:00:21</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="DirfLayout.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/26/2020 17:17:41</Property>
+      <Property Name="RunDuration">00:06:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="WhasUpMessage.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/27/2020 14:04:39</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="NF ENTRADA.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/26/2020 11:36:10</Property>
+      <Property Name="RunDuration">00:01:35</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="NF_ITENS.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/06/2020 09:19:07</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="NF_CFOP.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/26/2020 11:34:47</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="NF_ITENS_PLUS.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/26/2020 11:35:14</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="NF_PAGAMENTO.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/26/2020 11:35:27</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="NF_DOWNLOAD.atmx">
+    <Properties>
+      <Property Name="LastRunTime">03/13/2020 13:55:43</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

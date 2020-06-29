@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Outlook.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/07/2019 13:22:48</Property>
+      <Property Name="RunDuration">00:01:07</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Esqueleto.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/10/2019 18:54:54</Property>
+      <Property Name="RunDuration">00:45:08</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="LancamentoDeFretes.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/25/2019 11:06:30</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Failed</Property>
+      <Property Name="VCSFileStatus">None</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ValidarCTe.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/25/2019 12:03:01</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+      <Property Name="VCSFileStatus">None</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="EstruturaBase.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/17/2019 22:15:14</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="FreteBrasil.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/25/2019 11:06:30</Property>
+      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="Status">Failed</Property>
+      <Property Name="VCSFileStatus">None</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SGE.atmx">
+    <Properties>
+      <Property Name="LastRunTime">11/18/2019 15:39:06</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+      <Property Name="VCSFileStatus">None</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="TesteAutologin.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">None</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="VerificarErroImportacaoXML.atmx">
+    <Properties>
+      <Property Name="VCSFileStatus">None</Property>
+    </Properties>
+  </Entity>
+</Entities>

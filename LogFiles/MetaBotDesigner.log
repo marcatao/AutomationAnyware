@@ -1,0 +1,1978 @@
+﻿2019-10-23 08:26:32,759 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-10-23 08:26:32,759 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-10-23 08:26:32,759 [ 8] INFO  Editor - Arguments > Count = 0
+
+2019-10-23 08:26:32,759 [ 1] INFO  Editor - Arguments > Count = 0
+
+2019-10-23 08:26:32,947 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-10-23 08:26:32,947 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-10-23 08:26:32,978 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2019-10-23 08:26:33,010 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-23 08:26:33,072 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-23 08:26:33,259 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2019-10-23 08:26:33,259 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2019-10-23 08:26:33,275 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2019-10-23 08:26:33,275 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-10-23 08:26:33,275 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-10-23 08:26:33,384 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-10-23 08:26:33,384 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-10-23 08:26:33,791 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-10-23 08:26:33,791 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Login.mbot
+2019-10-23 08:26:33,838 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-10-23 08:26:33,838 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-10-23 08:26:33,963 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-10-23 08:26:33,963 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-10-23 08:26:33,963 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-10-23 08:26:33,994 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-23 08:26:34,072 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-10-23 08:26:34,291 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-10-23 08:26:34,291 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-10-23 08:26:34,306 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-10-23 08:26:34,447 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-23 08:26:34,447 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-23 08:26:34,447 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-23 08:26:34,447 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-10-23 08:26:34,447 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-23 08:26:34,447 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-23 08:26:34,463 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-10-23 08:26:34,463 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-10-23 08:26:34,635 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-10-23 08:26:34,635 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-10-23 08:26:34,650 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-10-23 08:26:34,650 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-10-23 08:26:34,650 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2019-10-23 08:26:34,650 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2019-10-23 08:26:34,650 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-23 08:26:34,650 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-23 08:26:34,650 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-23 08:26:34,650 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2019-10-23 08:26:37,916 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-10-23 08:26:37,931 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-10-23 08:26:37,931 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-10-23 08:26:37,963 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-10-23 08:26:38,259 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-10-23 08:26:38,275 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-10-23 08:26:38,275 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-23 08:26:38,275 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-10-23 08:26:38,275 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-10-23 08:26:38,275 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-10-23 08:26:39,291 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-23 08:26:39,322 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-10-23 08:26:39,322 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-23 08:26:39,322 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-10-23 08:26:39,322 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-23 08:26:39,338 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-10-23 08:26:39,338 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-23 08:26:39,338 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-10-23 08:26:39,338 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-10-23 08:26:39,400 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-23 08:26:39,463 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-10-23 08:26:39,463 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-10-23 08:26:39,494 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-10-23 08:26:39,494 [ 8] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-10-23 08:26:39,588 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-10-23 08:26:39,744 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-10-23 08:26:39,744 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-10-23 08:29:49,851 [ 9] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.
+2019-10-23 11:16:11,667 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-23 11:16:11,667 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-23 11:16:11,667 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-23 11:16:11,667 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-23 11:16:11,667 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-23 11:16:11,667 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2019-10-23 13:52:17,519 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-23 13:52:17,519 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-23 13:52:17,519 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-23 13:52:17,519 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-23 13:52:17,519 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-23 13:52:17,519 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2019-10-23 13:52:54,522 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-23 13:52:54,522 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-10-23 13:52:54,522 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-10-23 13:52:54,648 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-10-23 13:52:54,648 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-10-23 13:52:54,663 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-23 13:52:54,663 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-23 13:52:54,663 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-23 13:52:54,663 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-23 13:52:54,663 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-23 13:52:54,663 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-23 13:52:54,679 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-10-23 13:52:54,867 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-10-23 13:52:54,867 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-10-23 13:52:54,867 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-23 13:52:54,867 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-23 13:52:54,867 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-23 13:52:54,867 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-23 13:52:55,616 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-23 13:52:55,694 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-10-23 13:52:55,694 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-23 13:52:55,694 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-10-23 13:52:55,694 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-23 13:52:55,694 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-10-23 13:52:55,694 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-23 13:52:55,694 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-10-23 13:52:55,694 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-10-23 13:52:55,757 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-23 13:52:55,851 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-10-23 13:52:55,851 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-10-23 13:52:55,866 [42] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-10-23 13:52:55,866 [42] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-10-23 13:52:55,960 [42] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-10-23 13:52:56,007 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-10-23 13:52:56,007 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-10-23 14:26:27,779 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-23 14:26:27,779 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-23 14:26:27,779 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-23 14:26:27,779 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-23 14:26:27,779 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-23 14:26:27,779 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2019-10-23 14:26:34,513 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-23 14:26:34,513 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-23 14:26:34,513 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-23 14:26:34,513 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-23 14:26:34,513 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-23 14:26:34,513 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2019-10-23 17:59:41,968 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-23 17:59:41,968 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-23 17:59:41,968 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-23 17:59:41,968 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-23 17:59:41,968 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-23 17:59:41,968 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2019-10-24 08:03:06,022 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-24 08:03:06,022 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-24 08:03:06,022 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-24 08:03:06,022 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-24 08:03:06,022 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-24 08:03:06,022 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2019-10-24 08:46:41,149 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-24 08:46:41,149 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-10-24 08:46:41,149 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-10-24 08:46:41,290 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-10-24 08:46:41,290 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-10-24 08:46:41,305 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-24 08:46:41,305 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-24 08:46:41,305 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-24 08:46:41,305 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-24 08:46:41,305 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-24 08:46:41,305 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-24 08:46:41,321 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-10-24 08:46:41,524 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-10-24 08:46:41,524 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-10-24 08:46:41,524 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-24 08:46:41,524 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:46:41,524 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:46:41,524 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:renameMetabotIfOpen  > Start
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:renameMetaBotTabByName  > Start
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:renameMetaBotTabByName  > End
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:renameMetabotIfOpen  > End
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:47:27,821 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:47:38,946 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-24 08:47:38,946 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-10-24 08:47:38,946 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-10-24 08:47:39,087 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-10-24 08:47:39,087 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-10-24 08:47:39,087 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-10-24 08:47:39,087 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Login Base_teste.mbot
+2019-10-24 08:47:39,118 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-10-24 08:47:39,118 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-10-24 08:47:39,196 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-10-24 08:47:39,196 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-10-24 08:47:39,196 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-10-24 08:47:39,196 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-10-24 08:47:39,228 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-10-24 08:47:39,228 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-10-24 08:47:39,243 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-10-24 08:47:39,243 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-24 08:47:39,243 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-24 08:47:39,290 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-24 08:47:39,306 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-24 08:47:39,306 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-10-24 08:47:39,306 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-24 08:47:39,306 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-24 08:47:39,306 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-10-24 08:47:39,306 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-10-24 08:47:39,478 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-10-24 08:47:39,478 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-10-24 08:47:39,478 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-10-24 08:47:39,478 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-10-24 08:47:39,478 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-24 08:47:39,478 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:47:39,478 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:47:39,478 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-24 08:47:41,915 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-10-24 08:47:41,915 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-10-24 08:47:41,915 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-10-24 08:47:41,962 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-10-24 08:47:42,134 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-10-24 08:47:42,134 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-10-24 08:47:42,134 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-24 08:47:42,149 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-10-24 08:47:42,149 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-10-24 08:47:42,149 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-10-24 08:47:42,853 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-24 08:47:42,931 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-10-24 08:47:42,931 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-24 08:47:42,931 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-10-24 08:47:42,931 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-24 08:47:42,931 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-10-24 08:47:42,931 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-24 08:47:42,946 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-10-24 08:47:42,946 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-10-24 08:47:42,993 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-24 08:47:43,087 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-10-24 08:47:43,087 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-10-24 08:47:43,118 [17] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-10-24 08:47:43,118 [17] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-10-24 08:47:43,274 [17] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-10-24 08:47:43,353 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-10-24 08:47:43,415 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-10-30 10:14:10,826 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-10-30 10:14:10,826 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-10-30 10:14:10,826 [ 8] INFO  Editor - Arguments > Count = 0
+
+2019-10-30 10:14:10,826 [ 1] INFO  Editor - Arguments > Count = 0
+
+2019-10-30 10:14:10,951 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-10-30 10:14:10,951 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-10-30 10:14:10,966 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2019-10-30 10:14:10,997 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-30 10:14:11,060 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-10-30 10:14:11,232 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2019-10-30 10:14:11,232 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2019-10-30 10:14:11,263 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2019-10-30 10:14:11,263 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-10-30 10:14:11,279 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-10-30 10:14:11,388 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-10-30 10:14:11,388 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-10-30 10:14:11,763 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-10-30 10:14:11,763 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Login.mbot
+2019-10-30 10:14:11,810 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-10-30 10:14:11,810 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-10-30 10:14:11,935 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-10-30 10:14:11,935 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-10-30 10:14:11,951 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-10-30 10:14:11,982 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-30 10:14:12,060 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-10-30 10:14:12,248 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-10-30 10:14:12,248 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-10-30 10:14:12,279 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-10-30 10:14:12,420 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-10-30 10:14:12,420 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-10-30 10:14:12,420 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-30 10:14:12,420 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-10-30 10:14:12,420 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-10-30 10:14:12,420 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-10-30 10:14:12,420 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-10-30 10:14:12,435 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-10-30 10:14:12,607 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-10-30 10:14:12,623 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-10-30 10:14:12,623 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-10-30 10:14:12,623 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-10-30 10:14:12,623 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2019-10-30 10:14:12,623 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2019-10-30 10:14:12,623 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-10-30 10:14:12,638 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-30 10:14:12,638 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-10-30 10:14:12,638 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2019-10-30 10:14:14,826 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-10-30 10:14:14,826 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-10-30 10:14:14,844 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-10-30 10:14:14,889 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-10-30 10:14:15,248 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-10-30 10:14:15,248 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-10-30 10:14:15,248 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-30 10:14:15,248 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-10-30 10:14:15,248 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-10-30 10:14:15,248 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-10-30 10:14:16,170 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-30 10:14:16,279 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-10-30 10:14:16,279 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-30 10:14:16,294 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-10-30 10:14:16,294 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-30 10:14:16,310 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-10-30 10:14:16,310 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-10-30 10:14:16,310 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-10-30 10:14:16,310 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-10-30 10:14:16,388 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-10-30 10:14:16,482 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-10-30 10:14:16,482 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-10-30 10:14:16,529 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-10-30 10:14:16,529 [ 8] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-10-30 10:14:16,623 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-10-30 10:14:16,827 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-10-30 10:14:16,827 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-10-30 10:18:55,499 [ 9] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.
+2019-11-08 08:13:02,113 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-08 08:13:02,113 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-08 08:13:02,113 [ 8] INFO  Editor - Arguments > Count = 0
+
+2019-11-08 08:13:02,113 [ 1] INFO  Editor - Arguments > Count = 0
+
+2019-11-08 08:13:02,348 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-08 08:13:02,348 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-08 08:13:02,410 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2019-11-08 08:13:02,473 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-08 08:13:02,551 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-08 08:13:02,832 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2019-11-08 08:13:02,832 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2019-11-08 08:13:02,863 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2019-11-08 08:13:02,863 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 08:13:02,879 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-08 08:13:03,020 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-08 08:13:03,020 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-08 08:13:03,410 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-11-08 08:13:03,410 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Login.mbot
+2019-11-08 08:13:03,457 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 08:13:03,457 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 08:13:03,582 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 08:13:03,582 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-11-08 08:13:03,582 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-11-08 08:13:03,613 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:13:03,708 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-11-08 08:13:03,817 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-11-08 08:13:03,817 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-11-08 08:13:03,832 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-11-08 08:13:03,988 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-08 08:13:03,988 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-08 08:13:03,988 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:13:03,988 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-11-08 08:13:03,988 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 08:13:03,988 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 08:13:03,988 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-11-08 08:13:04,004 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 08:13:04,207 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 08:13:04,207 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-11-08 08:13:04,207 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-11-08 08:13:04,207 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 08:13:04,223 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2019-11-08 08:13:04,223 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2019-11-08 08:13:04,223 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 08:13:04,223 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 08:13:04,223 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 08:13:04,223 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2019-11-08 08:13:09,410 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-11-08 08:13:09,410 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-11-08 08:13:09,426 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-11-08 08:13:09,473 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 08:13:09,863 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 08:13:09,863 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-11-08 08:13:09,863 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:13:09,863 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 08:13:09,863 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-11-08 08:13:09,863 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-11-08 08:13:15,270 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:13:15,379 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 08:13:15,379 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:13:15,379 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 08:13:15,379 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:13:15,379 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 08:13:15,379 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:13:15,379 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 08:13:15,379 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 08:13:15,426 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:13:15,551 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-08 08:13:15,551 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-08 08:13:15,582 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 08:13:15,582 [ 8] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 08:13:15,692 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 08:13:15,848 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-11-08 08:13:15,848 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-08 08:13:54,286 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 08:13:54,286 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:13:54,286 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 08:13:54,286 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 08:13:54,286 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:13:54,286 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 08:14:00,114 [11] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.
+2019-11-08 08:14:03,614 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 08:14:03,614 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 08:14:03,614 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-08 08:14:03,801 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-08 08:14:03,801 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-08 08:14:03,801 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-11-08 08:14:03,801 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Abrir programa por codigo.mbot
+2019-11-08 08:14:03,864 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 08:14:03,864 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 08:14:03,973 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 08:14:03,973 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-11-08 08:14:03,973 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-11-08 08:14:03,973 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-11-08 08:14:04,004 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-11-08 08:14:04,004 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-11-08 08:14:04,020 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-11-08 08:14:04,020 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-08 08:14:04,020 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-08 08:14:04,098 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:14:04,098 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:14:04,098 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-11-08 08:14:04,098 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 08:14:04,098 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 08:14:04,098 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-11-08 08:14:04,098 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 08:14:04,317 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 08:14:04,317 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-11-08 08:14:04,317 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-11-08 08:14:04,317 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 08:14:04,317 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 08:14:04,317 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 08:14:04,317 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 08:14:04,317 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 08:14:06,098 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-11-08 08:14:06,098 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-11-08 08:14:06,098 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-11-08 08:14:06,176 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 08:14:06,379 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 08:14:06,379 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-11-08 08:14:06,379 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:14:06,379 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 08:14:06,379 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-11-08 08:14:06,379 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-11-08 08:14:09,317 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:09,411 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 08:14:09,411 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:09,427 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 08:14:09,427 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:09,427 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 08:14:09,427 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:14:09,427 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 08:14:09,427 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 08:14:09,520 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:09,629 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-08 08:14:09,629 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-08 08:14:09,676 [ 3] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 08:14:09,676 [ 3] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 08:14:09,786 [ 3] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 08:14:09,817 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-11-08 08:14:09,817 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-08 08:14:27,864 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 08:14:27,864 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 08:14:27,864 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-08 08:14:27,989 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-08 08:14:27,989 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-08 08:14:28,004 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:14:28,004 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 08:14:28,004 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 08:14:28,004 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 08:14:28,004 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-08 08:14:28,004 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-08 08:14:28,004 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 08:14:28,004 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 08:14:28,036 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 08:14:28,254 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 08:14:28,254 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 08:14:28,254 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 08:14:28,254 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 08:14:28,254 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 08:14:28,254 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 08:14:30,098 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:30,161 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 08:14:30,161 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:30,161 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 08:14:30,161 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:30,176 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 08:14:30,176 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:14:30,176 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 08:14:30,176 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 08:14:30,239 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:30,364 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-08 08:14:30,364 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-08 08:14:30,411 [11] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 08:14:30,411 [11] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 08:14:30,520 [11] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 08:14:30,614 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-08 08:14:30,676 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-08 08:14:30,676 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-08 08:14:32,082 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:14:32,114 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2019-11-08 08:14:32,114 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2019-11-08 08:14:45,067 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > Start
+2019-11-08 08:14:45,129 [11] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 08:14:45,129 [11] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 08:14:45,223 [11] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 08:14:45,270 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > End
+2019-11-08 08:15:21,411 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:15:21,489 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:15:21,505 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 08:15:21,505 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 08:15:21,505 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 08:15:21,505 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 08:15:21,583 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 08:15:21,677 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-08 08:15:21,677 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-08 08:15:21,739 [ 4] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 08:15:21,739 [ 4] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 08:15:21,833 [ 4] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 08:15:21,942 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-08 08:15:22,005 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-08 09:06:01,132 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 09:06:01,132 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 09:06:01,179 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 09:06:01,288 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-08 09:06:01,288 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-08 09:06:01,351 [12] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 09:06:01,351 [12] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 09:06:01,445 [12] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 09:06:01,492 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-11-08 09:06:01,492 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-08 10:11:25,305 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:25,417 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:25,417 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:25,422 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:25,423 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:25,423 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:25,427 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:25,427 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:25,432 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 10:11:25,432 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 10:11:25,432 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 10:11:25,432 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 10:11:27,707 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:27,707 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:27,711 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:27,711 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:27,711 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:27,716 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:28,000 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:28,075 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:28,075 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:28,080 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:28,080 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:28,080 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:28,086 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:28,086 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:28,090 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 10:11:28,090 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 10:11:28,090 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 10:11:28,090 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 10:11:28,588 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:28,588 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:28,593 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:28,593 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:28,593 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:28,598 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:39,857 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 10:11:39,857 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 10:11:39,857 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-08 10:11:39,977 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-08 10:11:39,977 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-08 10:11:39,984 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-11-08 10:11:39,985 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Posiciona Tela.mbot
+2019-11-08 10:11:40,047 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 10:11:40,047 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 10:11:40,160 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 10:11:40,160 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-11-08 10:11:40,160 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-11-08 10:11:40,168 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-11-08 10:11:40,211 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-11-08 10:11:40,211 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-11-08 10:11:40,243 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-11-08 10:11:40,245 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-08 10:11:40,245 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-08 10:11:40,338 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 10:11:40,338 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 10:11:40,338 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-11-08 10:11:40,338 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 10:11:40,338 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 10:11:40,338 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-11-08 10:11:40,347 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 10:11:40,575 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 10:11:40,575 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-11-08 10:11:40,575 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-11-08 10:11:40,575 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 10:11:40,575 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 10:11:40,575 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:11:40,575 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:11:40,575 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:11:42,076 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-11-08 10:11:42,076 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-11-08 10:11:42,083 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-11-08 10:11:42,150 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 10:11:42,380 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 10:11:42,380 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-11-08 10:11:42,380 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 10:11:42,380 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 10:11:42,380 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-11-08 10:11:42,380 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-11-08 10:11:43,174 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:43,266 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:11:43,266 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:43,275 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:11:43,275 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:43,280 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 10:11:43,280 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 10:11:43,280 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 10:11:43,280 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 10:11:43,353 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:11:43,448 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-08 10:11:43,448 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-08 10:11:43,504 [ 4] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 10:11:43,504 [ 4] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 10:11:43,609 [ 4] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 10:11:43,691 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-11-08 10:11:43,691 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-08 10:12:03,441 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 10:12:03,441 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 10:12:03,441 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-08 10:12:03,552 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-08 10:12:03,552 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-08 10:12:03,572 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 10:12:03,572 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 10:12:03,572 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 10:12:03,572 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 10:12:03,572 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-08 10:12:03,573 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-08 10:12:03,573 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 10:12:03,573 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 10:12:03,600 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 10:12:03,791 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 10:12:03,791 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 10:12:03,791 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 10:12:03,791 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:12:03,791 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:12:03,791 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:12:08,000 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > Start
+2019-11-08 10:12:08,054 [ 9] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 10:12:08,054 [ 9] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 10:12:08,150 [ 9] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 10:12:08,215 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > End
+2019-11-08 10:12:09,903 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2019-11-08 10:12:09,903 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:addLogicIfMetabotOpen  > Start
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:getMetabotView  > Start
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:addLogicIfMetabotOpen  > End
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:14:37,640 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:21:07,856 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 10:21:07,856 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 10:21:07,856 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-08 10:21:08,045 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-08 10:21:08,045 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-08 10:21:08,050 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 10:21:08,050 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 10:21:08,050 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-08 10:21:08,050 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-08 10:21:08,050 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 10:21:08,050 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 10:21:08,096 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 10:21:08,299 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 10:21:08,299 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 10:21:08,299 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 10:21:08,299 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:21:08,300 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:21:08,300 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 10:21:10,202 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:21:10,283 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 10:21:10,283 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:21:10,294 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 10:21:10,294 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:21:10,299 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 10:21:10,299 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 10:21:10,299 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 10:21:10,299 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 10:21:10,343 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 10:21:10,453 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-08 10:21:10,453 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-08 10:21:10,508 [17] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 10:21:10,508 [17] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 10:21:10,596 [17] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 10:21:10,670 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-11-08 10:21:10,671 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-08 11:10:40,889 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 11:10:40,889 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 11:10:40,889 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-08 11:10:41,088 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-08 11:10:41,088 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-08 11:10:41,095 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 11:10:41,095 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 11:10:41,095 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-08 11:10:41,095 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-08 11:10:41,095 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 11:10:41,095 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 11:10:41,142 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 11:10:41,352 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 11:10:41,352 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 11:10:41,352 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 11:10:41,352 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 11:10:41,352 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 11:10:41,352 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 11:10:45,557 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-11-08 11:10:45,558 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-11-08 11:10:45,565 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-11-08 11:10:45,641 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 11:10:45,829 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 11:10:45,830 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-11-08 11:10:45,830 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 11:10:45,830 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-11-08 11:10:45,830 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-11-08 11:10:46,721 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-11-08 11:10:46,721 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-11-08 11:10:46,728 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-11-08 11:10:46,792 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 11:10:47,013 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 11:10:47,013 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-11-08 11:10:47,013 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 11:10:47,013 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 11:10:47,013 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-11-08 11:10:47,013 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-11-08 11:10:52,267 [ 1] INFO  MetaBotDesigner - MetaBotView:EditLogic  > Start
+2019-11-08 11:27:20,851 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 11:27:20,851 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-08 11:27:20,851 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-08 11:27:21,023 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-08 11:27:21,023 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-08 11:27:21,023 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 11:27:21,023 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 11:27:21,023 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-08 11:27:21,023 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-08 11:27:21,023 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-08 11:27:21,023 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-08 11:27:21,071 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-08 11:27:21,289 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-08 11:27:21,289 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-08 11:27:21,289 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-08 11:27:21,289 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 11:27:21,289 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 11:27:21,289 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-08 11:27:29,713 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 11:27:29,789 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-08 11:27:29,789 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 11:27:29,805 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-08 11:27:29,805 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 11:27:29,805 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 11:27:29,805 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 11:27:29,805 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 11:27:29,805 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 11:27:31,096 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 11:27:31,164 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 11:27:31,164 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-08 11:27:31,164 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-08 11:27:31,164 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-08 11:27:31,164 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-08 11:27:31,243 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-08 11:27:31,305 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-08 11:27:31,305 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-08 11:27:31,368 [10] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-08 11:27:31,368 [10] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-08 11:27:31,477 [10] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-08 11:27:31,602 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-08 11:27:31,680 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-18 14:04:24,608 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-18 14:04:24,608 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-18 14:04:24,608 [ 8] INFO  Editor - Arguments > Count = 0
+
+2019-11-18 14:04:24,608 [ 1] INFO  Editor - Arguments > Count = 0
+
+2019-11-18 14:04:24,733 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-18 14:04:24,733 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-18 14:04:24,765 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2019-11-18 14:04:24,796 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-18 14:04:24,859 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-18 14:04:25,046 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2019-11-18 14:04:25,046 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2019-11-18 14:04:25,061 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2019-11-18 14:04:25,061 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-18 14:04:25,061 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-18 14:04:25,187 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-18 14:04:25,187 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-18 14:04:25,530 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-11-18 14:04:25,530 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Funcoes.mbot
+2019-11-18 14:04:25,577 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-18 14:04:25,577 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-18 14:04:25,686 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-18 14:04:25,686 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-11-18 14:04:25,686 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-11-18 14:04:25,718 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-18 14:04:25,796 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-11-18 14:04:25,905 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-11-18 14:04:25,905 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-11-18 14:04:25,936 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-11-18 14:04:26,077 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-18 14:04:26,077 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-18 14:04:26,077 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-18 14:04:26,077 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-11-18 14:04:26,077 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-18 14:04:26,077 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-18 14:04:26,077 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-11-18 14:04:26,093 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-18 14:04:26,280 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-18 14:04:26,296 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-11-18 14:04:26,296 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-11-18 14:04:26,296 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-18 14:04:26,296 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2019-11-18 14:04:26,296 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2019-11-18 14:04:26,296 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-18 14:04:26,296 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-18 14:04:26,296 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-18 14:04:26,312 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2019-11-18 14:04:30,358 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-11-18 14:04:30,358 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-11-18 14:04:30,358 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-11-18 14:04:30,390 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-18 14:04:30,686 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-18 14:04:30,702 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-11-18 14:04:30,702 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-18 14:04:30,702 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-18 14:04:30,702 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-11-18 14:04:30,702 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-11-18 14:04:33,377 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-18 14:04:33,452 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-18 14:04:33,468 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-18 14:04:33,468 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-18 14:04:33,468 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-18 14:04:33,468 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-18 14:04:33,468 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-18 14:04:33,468 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-18 14:04:33,468 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-18 14:04:33,515 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-18 14:04:33,608 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-18 14:04:33,624 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-18 14:04:33,640 [ 9] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-18 14:04:33,640 [ 9] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-18 14:04:33,733 [ 9] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-18 14:04:33,890 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-11-18 14:04:33,890 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-18 14:04:34,936 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2019-11-18 14:04:34,936 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2019-11-18 14:09:24,749 [11] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-18 14:09:24,749 [11] INFO  Editor - Arguments > Count = 0
+
+2019-11-18 14:09:24,785 [11] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-18 14:10:36,266 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-18 14:10:36,266 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-18 14:10:36,266 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-18 14:10:36,266 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-18 14:10:36,266 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-18 14:10:36,266 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2019-11-18 14:11:20,590 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-18 14:11:20,590 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-18 14:11:20,590 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-18 14:11:20,590 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-18 14:11:20,590 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-18 14:11:20,590 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2019-11-18 14:11:23,708 [10] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.
+2019-11-25 13:47:55,026 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 13:47:55,026 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 13:47:55,026 [ 8] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 13:47:55,026 [ 1] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 13:47:55,167 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 13:47:55,167 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 13:47:55,183 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2019-11-25 13:47:55,198 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-25 13:47:55,276 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-25 13:47:55,433 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2019-11-25 13:47:55,448 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2019-11-25 13:47:55,479 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2019-11-25 13:47:55,479 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-25 13:47:55,495 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-25 13:47:55,604 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-25 13:47:55,604 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-25 13:47:55,933 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-11-25 13:47:55,933 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Funcoes.mbot
+2019-11-25 13:47:55,980 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-25 13:47:55,980 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-25 13:47:56,089 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-25 13:47:56,089 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-11-25 13:47:56,105 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-11-25 13:47:56,136 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 13:47:56,214 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-11-25 13:47:56,354 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-11-25 13:47:56,354 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-11-25 13:47:56,370 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-11-25 13:47:56,526 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-25 13:47:56,526 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-25 13:47:56,526 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 13:47:56,526 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-11-25 13:47:56,526 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-25 13:47:56,526 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-25 13:47:56,542 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-11-25 13:47:56,542 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-25 13:47:56,730 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-25 13:47:56,730 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-11-25 13:47:56,745 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-11-25 13:47:56,745 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-25 13:47:56,745 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2019-11-25 13:47:56,745 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2019-11-25 13:47:56,745 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-25 13:47:56,745 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 13:47:56,745 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 13:47:56,745 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2019-11-25 13:48:00,292 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-11-25 13:48:00,292 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-11-25 13:48:00,308 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-11-25 13:48:00,355 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-25 13:48:00,761 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-25 13:48:00,761 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-11-25 13:48:00,761 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 13:48:00,761 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-25 13:48:00,761 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-11-25 13:48:00,761 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-11-25 13:48:03,080 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 13:48:03,183 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-25 13:48:03,183 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 13:48:03,183 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-25 13:48:03,183 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 13:48:03,183 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-25 13:48:03,183 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 13:48:03,183 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-25 13:48:03,183 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-25 13:48:03,605 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 13:48:03,698 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 13:48:03,698 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-25 13:48:03,698 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 13:48:03,698 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-25 13:48:03,698 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-25 13:48:03,776 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 13:48:03,901 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-25 13:48:03,901 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-25 13:48:03,933 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-25 13:48:03,933 [ 8] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-25 13:48:04,026 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-25 13:48:04,198 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-11-25 13:48:04,198 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-25 13:52:55,181 [11] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 13:52:55,181 [11] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 13:52:55,224 [11] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 13:57:55,236 [10] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 13:57:55,236 [10] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 13:57:55,283 [10] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:02:55,299 [ 4] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:02:55,299 [ 4] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:02:55,350 [ 4] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:05:08,011 [15] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.
+2019-11-25 14:07:07,931 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:07:07,931 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:07:07,931 [ 1] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:07:07,931 [ 8] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:07:08,072 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:07:08,072 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:07:08,088 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2019-11-25 14:07:08,119 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-25 14:07:08,181 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2019-11-25 14:07:08,353 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2019-11-25 14:07:08,353 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2019-11-25 14:07:08,353 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2019-11-25 14:07:08,353 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-25 14:07:08,369 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-25 14:07:08,478 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-25 14:07:08,478 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-25 14:07:08,791 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2019-11-25 14:07:08,791 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Funcoes.mbot
+2019-11-25 14:07:08,838 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-25 14:07:08,838 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-25 14:07:08,963 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-25 14:07:08,963 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2019-11-25 14:07:08,963 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2019-11-25 14:07:08,994 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 14:07:09,072 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2019-11-25 14:07:09,166 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2019-11-25 14:07:09,166 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2019-11-25 14:07:09,197 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2019-11-25 14:07:09,322 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-25 14:07:09,322 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-25 14:07:09,322 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 14:07:09,322 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2019-11-25 14:07:09,322 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-25 14:07:09,322 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-25 14:07:09,338 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2019-11-25 14:07:09,338 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-25 14:07:09,510 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-25 14:07:09,510 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2019-11-25 14:07:09,525 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2019-11-25 14:07:09,525 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-25 14:07:09,525 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2019-11-25 14:07:09,525 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2019-11-25 14:07:09,525 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-25 14:07:09,525 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 14:07:09,525 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 14:07:09,525 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2019-11-25 14:08:20,510 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2019-11-25 14:08:20,510 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2019-11-25 14:08:20,525 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2019-11-25 14:08:20,556 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-25 14:08:20,838 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-25 14:08:20,853 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2019-11-25 14:08:20,853 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 14:08:20,853 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-25 14:08:20,853 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2019-11-25 14:08:20,853 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2019-11-25 14:08:22,775 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 14:08:22,869 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-25 14:08:22,869 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 14:08:22,869 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-25 14:08:22,901 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 14:08:22,901 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-25 14:08:22,901 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 14:08:22,901 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-25 14:08:22,901 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-25 14:08:22,916 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 14:08:23,041 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-25 14:08:23,041 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-25 14:08:23,072 [ 9] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-25 14:08:23,072 [ 9] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-25 14:08:23,181 [ 9] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-25 14:08:23,400 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2019-11-25 14:08:23,400 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-25 14:12:08,069 [ 3] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:12:08,069 [ 3] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:12:08,100 [ 3] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:17:08,055 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:17:08,055 [ 8] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:17:08,110 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:22:08,110 [10] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:22:08,110 [10] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:22:08,173 [10] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:27:08,197 [14] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:27:08,197 [14] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:27:08,229 [14] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:32:08,233 [18] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:32:08,233 [18] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:32:08,298 [18] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:37:08,300 [11] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2019-11-25 14:37:08,300 [11] INFO  Editor - Arguments > Count = 0
+
+2019-11-25 14:37:08,414 [11] INFO  Editor - IUserService.GetPermissions > After Invoke
+2019-11-25 14:38:54,300 [20] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.
+2019-11-25 15:00:27,585 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-25 15:00:27,585 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-25 15:00:27,585 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-25 15:00:27,705 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-25 15:00:27,705 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-25 15:00:27,708 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-25 15:00:27,708 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-25 15:00:27,708 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-25 15:00:27,708 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-25 15:00:27,708 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-25 15:00:27,708 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-25 15:00:27,745 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-25 15:00:27,912 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-25 15:00:27,912 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-25 15:00:27,912 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-25 15:00:27,912 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 15:00:27,912 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 15:00:27,912 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 15:00:29,154 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:00:30,257 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:00:31,544 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:00:31,630 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-25 15:00:31,630 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:00:31,634 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-25 15:00:31,634 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:00:31,636 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-25 15:00:31,636 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 15:00:31,636 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-25 15:00:31,636 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-25 15:00:32,336 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:00:32,412 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:00:32,414 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-25 15:00:32,414 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 15:00:32,414 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-25 15:00:32,414 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-25 15:00:32,477 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:00:32,593 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-25 15:00:32,593 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-25 15:00:32,620 [26] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-25 15:00:32,620 [26] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-25 15:00:32,744 [26] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-25 15:00:32,807 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-25 15:00:32,865 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-25 15:00:32,866 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2019-11-25 15:39:16,542 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-25 15:39:16,542 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2019-11-25 15:39:16,542 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2019-11-25 15:39:16,661 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2019-11-25 15:39:16,661 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2019-11-25 15:39:16,664 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-25 15:39:16,664 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-25 15:39:16,664 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2019-11-25 15:39:16,664 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2019-11-25 15:39:16,664 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2019-11-25 15:39:16,664 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2019-11-25 15:39:16,692 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2019-11-25 15:39:16,862 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2019-11-25 15:39:16,862 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2019-11-25 15:39:16,862 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2019-11-25 15:39:16,862 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 15:39:16,862 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 15:39:16,862 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2019-11-25 15:39:30,264 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:39:30,351 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2019-11-25 15:39:30,351 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:39:30,355 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2019-11-25 15:39:30,355 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:39:30,357 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2019-11-25 15:39:30,357 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2019-11-25 15:39:30,357 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2019-11-25 15:39:30,357 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2019-11-25 15:39:30,439 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2019-11-25 15:39:30,523 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2019-11-25 15:39:30,523 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2019-11-25 15:39:30,550 [19] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2019-11-25 15:39:30,550 [19] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2019-11-25 15:39:30,646 [19] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2019-11-25 15:39:30,755 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2019-11-25 15:39:30,820 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2020-02-17 12:14:55,066 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-02-17 12:14:55,066 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-02-17 12:14:55,066 [ 1] INFO  Editor - Arguments > Count = 0
+
+2020-02-17 12:14:55,066 [ 8] INFO  Editor - Arguments > Count = 0
+
+2020-02-17 12:14:55,191 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-02-17 12:14:55,191 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-02-17 12:14:55,222 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2020-02-17 12:14:55,316 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-02-17 12:14:55,504 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2020-02-17 12:14:55,504 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2020-02-17 12:14:55,520 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2020-02-17 12:14:55,535 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2020-02-17 12:14:55,535 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2020-02-17 12:14:55,645 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2020-02-17 12:14:55,645 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2020-02-17 12:14:56,035 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2020-02-17 12:14:56,035 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Funcoes.mbot
+2020-02-17 12:14:56,097 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-02-17 12:14:56,097 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-02-17 12:14:56,191 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-02-17 12:14:56,191 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2020-02-17 12:14:56,191 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2020-02-17 12:14:56,222 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-02-17 12:14:56,300 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2020-02-17 12:14:56,410 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2020-02-17 12:14:56,410 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2020-02-17 12:14:56,426 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2020-02-17 12:14:56,582 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-02-17 12:14:56,582 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-02-17 12:14:56,582 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-02-17 12:14:56,582 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2020-02-17 12:14:56,582 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-02-17 12:14:56,582 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-02-17 12:14:56,582 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2020-02-17 12:14:56,598 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2020-02-17 12:14:56,785 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2020-02-17 12:14:56,785 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2020-02-17 12:14:56,785 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2020-02-17 12:14:56,785 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2020-02-17 12:14:56,801 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2020-02-17 12:14:56,801 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2020-02-17 12:14:56,801 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-02-17 12:14:56,801 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-17 12:14:56,801 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-17 12:14:56,801 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2020-02-17 12:14:59,097 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2020-02-17 12:14:59,097 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2020-02-17 12:14:59,097 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2020-02-17 12:14:59,144 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2020-02-17 12:14:59,472 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2020-02-17 12:14:59,472 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2020-02-17 12:14:59,472 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-02-17 12:14:59,472 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2020-02-17 12:14:59,472 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2020-02-17 12:14:59,472 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2020-02-17 12:15:01,598 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > Start
+2020-02-17 12:15:01,629 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-02-17 12:15:01,629 [ 8] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-02-17 12:15:01,723 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-02-17 12:15:02,019 [ 1] ERROR MetaBotDesigner - UIThreadException > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<AddLogic>d__109.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<btnAddProcess_Click>d__162.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+2020-02-17 12:15:03,144 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-02-17 12:15:03,144 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:addLogicIfMetabotOpen  > Start
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:getMetabotView  > Start
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:addLogicIfMetabotOpen  > End
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-17 12:19:06,367 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-17 12:19:55,212 [ 9] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-02-17 12:19:55,212 [ 9] INFO  Editor - Arguments > Count = 0
+
+2020-02-17 12:19:55,258 [ 9] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-02-17 12:20:05,993 [ 9] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.
+2020-02-27 08:33:29,578 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-02-27 08:33:29,578 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-02-27 08:33:29,578 [ 1] INFO  Editor - Arguments > Count = 0
+
+2020-02-27 08:33:29,578 [ 8] INFO  Editor - Arguments > Count = 0
+
+2020-02-27 08:33:29,750 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-02-27 08:33:29,766 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-02-27 08:33:29,812 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2020-02-27 08:33:29,859 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-02-27 08:33:29,922 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-02-27 08:33:30,141 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2020-02-27 08:33:30,141 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2020-02-27 08:33:30,156 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2020-02-27 08:33:30,172 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2020-02-27 08:33:30,172 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2020-02-27 08:33:30,281 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2020-02-27 08:33:30,281 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2020-02-27 08:33:30,625 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2020-02-27 08:33:30,625 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Funcoes.mbot
+2020-02-27 08:33:30,672 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-02-27 08:33:30,672 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-02-27 08:33:30,781 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-02-27 08:33:30,781 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2020-02-27 08:33:30,781 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2020-02-27 08:33:30,812 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-02-27 08:33:30,890 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2020-02-27 08:33:31,047 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2020-02-27 08:33:31,047 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2020-02-27 08:33:31,062 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2020-02-27 08:33:31,234 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-02-27 08:33:31,234 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-02-27 08:33:31,234 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-02-27 08:33:31,234 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2020-02-27 08:33:31,234 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-02-27 08:33:31,234 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-02-27 08:33:31,234 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2020-02-27 08:33:31,234 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2020-02-27 08:33:31,437 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2020-02-27 08:33:31,437 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2020-02-27 08:33:31,453 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2020-02-27 08:33:31,453 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2020-02-27 08:33:31,453 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2020-02-27 08:33:31,453 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2020-02-27 08:33:31,453 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-02-27 08:33:31,453 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-27 08:33:31,453 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-27 08:33:31,453 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2020-02-27 08:33:36,062 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2020-02-27 08:33:36,062 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2020-02-27 08:33:36,062 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2020-02-27 08:33:36,109 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2020-02-27 08:33:36,469 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2020-02-27 08:33:36,469 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2020-02-27 08:33:36,469 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-02-27 08:33:36,469 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2020-02-27 08:33:36,469 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2020-02-27 08:33:36,469 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2020-02-27 08:33:38,578 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > Start
+2020-02-27 08:33:38,609 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-02-27 08:33:38,609 [ 8] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-02-27 08:33:38,719 [ 8] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-02-27 08:33:38,875 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > End
+2020-02-27 08:33:39,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-02-27 08:33:39,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-02-27 08:38:29,769 [ 9] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-02-27 08:38:29,769 [ 9] INFO  Editor - Arguments > Count = 0
+
+2020-02-27 08:38:29,800 [ 9] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:addLogicIfMetabotOpen  > Start
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:getMetabotView  > Start
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:addLogicIfMetabotOpen  > End
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-27 08:39:18,223 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-02-27 08:42:56,991 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-02-27 08:42:56,991 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-02-27 08:42:56,991 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-02-27 08:42:56,991 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-02-27 08:42:56,991 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-02-27 08:42:56,991 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2020-02-27 08:43:29,807 [ 3] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-02-27 08:43:29,807 [ 3] INFO  Editor - Arguments > Count = 0
+
+2020-02-27 08:43:29,870 [ 3] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-02-27 08:43:35,632 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-02-27 08:43:35,632 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-02-27 08:43:35,632 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-02-27 08:43:35,632 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-02-27 08:43:35,632 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-02-27 08:43:35,632 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2020-02-27 08:43:49,617 [16] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.
+2020-03-03 10:04:25,421 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 10:04:25,421 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 10:04:25,421 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 10:04:26,925 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 10:04:26,925 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 10:04:26,925 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 10:04:26,925 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 10:04:26,940 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 10:04:26,940 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 10:04:26,940 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 10:04:26,940 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 10:04:26,940 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 10:04:26,940 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 10:04:26,940 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 10:04:26,940 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 14:44:38,246 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:25:12,829 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-03-03 15:25:12,829 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-03 15:25:12,829 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-03 15:25:12,829 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-03-03 15:25:12,829 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-03-03 15:25:12,829 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2020-03-03 15:40:11,282 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-03-03 15:40:11,282 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-03 15:40:11,282 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-03 15:40:11,282 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-03-03 15:40:11,282 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-03-03 15:40:11,282 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2020-03-03 15:40:13,750 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,750 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,750 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,750 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,750 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,750 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,765 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:13,937 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,960 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-03 15:40:43,976 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-03 18:29:57,245 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-03-03 18:29:57,245 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-03 18:29:57,245 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-03 18:29:57,245 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-03-03 18:29:57,245 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-03-03 18:29:57,245 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2020-03-04 11:50:35,638 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-03-04 11:50:35,638 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-04 11:50:35,638 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-04 11:50:35,638 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-03-04 11:50:35,638 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-03-04 11:50:35,638 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > End
+2020-03-04 11:58:30,096 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-03-04 11:58:30,096 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2020-03-04 11:58:30,096 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2020-03-04 11:58:30,268 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2020-03-04 11:58:30,268 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2020-03-04 11:58:30,268 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-04 11:58:30,268 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-04 11:58:30,268 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-03-04 11:58:30,268 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-03-04 11:58:30,268 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-04 11:58:30,268 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-04 11:58:30,299 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2020-03-04 11:58:30,517 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2020-03-04 11:58:30,517 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2020-03-04 11:58:30,517 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-03-04 11:58:30,517 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 11:58:30,517 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 11:58:30,517 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 11:58:38,080 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 11:58:41,252 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 11:58:41,330 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2020-03-04 11:58:41,330 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 11:58:41,330 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2020-03-04 11:58:41,330 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 11:58:41,330 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2020-03-04 11:58:41,330 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-03-04 11:58:41,330 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2020-03-04 11:58:41,330 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2020-03-04 11:58:45,471 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 11:58:45,533 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 11:58:45,533 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2020-03-04 11:58:45,533 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-03-04 11:58:45,533 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2020-03-04 11:58:45,533 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2020-03-04 11:58:45,612 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 11:58:45,721 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2020-03-04 11:58:45,721 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2020-03-04 11:58:45,768 [41] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-03-04 11:58:45,768 [41] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-03-04 11:58:45,877 [41] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-03-04 11:58:45,971 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2020-03-04 11:58:45,971 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2020-03-04 11:58:47,752 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-04 11:58:47,752 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-04 11:59:04,330 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > Start
+2020-03-04 11:59:04,361 [41] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-03-04 11:59:04,361 [41] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-03-04 11:59:04,471 [41] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-03-04 11:59:04,502 [ 1] INFO  MetaBotDesigner - MetaBotView:AddLogic  > End
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:addLogicIfMetabotOpen  > Start
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:getMetabotView  > Start
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:addLogicIfMetabotOpen  > End
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 12:00:19,769 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 12:04:22,521 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2020-03-04 12:04:22,521 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 12:04:22,521 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2020-03-04 12:04:22,521 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2020-03-04 12:04:22,521 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 12:04:22,537 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2020-03-04 12:04:25,365 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2020-03-04 12:04:25,365 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 12:04:25,365 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2020-03-04 12:04:25,365 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2020-03-04 12:04:25,365 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 12:04:25,365 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2020-03-04 12:04:35,005 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-03-04 12:04:35,005 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2020-03-04 12:04:35,005 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2020-03-04 12:04:35,146 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2020-03-04 12:04:35,146 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2020-03-04 12:04:35,146 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-04 12:04:35,146 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-04 12:04:35,146 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-03-04 12:04:35,146 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-03-04 12:04:35,146 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-04 12:04:35,146 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-04 12:04:35,177 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2020-03-04 12:04:35,412 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2020-03-04 12:04:35,412 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2020-03-04 12:04:35,412 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-03-04 12:04:35,412 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 12:04:35,412 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 12:04:35,412 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-04 12:04:37,349 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 12:04:37,443 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2020-03-04 12:04:37,443 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 12:04:37,443 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2020-03-04 12:04:37,443 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 12:04:37,443 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2020-03-04 12:04:37,443 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-03-04 12:04:37,443 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2020-03-04 12:04:37,443 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2020-03-04 12:04:37,568 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-04 12:04:37,662 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2020-03-04 12:04:37,662 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2020-03-04 12:04:37,677 [39] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-03-04 12:04:37,677 [39] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-03-04 12:04:37,802 [39] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-03-04 12:04:37,881 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2020-03-04 12:04:37,943 [ 1] ERROR MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Cannot access a disposed object.
+Object name: 'frmLoading'.
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.UpdateMenuHandles(MainMenu menu, Boolean forceRedraw)
+   at System.Windows.Forms.Form.UpdateMenuHandles()
+   at System.Windows.Forms.Form.MenuChanged(Int32 change, Menu menu)
+   at System.Windows.Forms.Form.Dispose(Boolean disposing)
+   at Automation.MetaBot.Editor.UI.frmLoading.Dispose(Boolean disposing)
+   at System.ComponentModel.Component.Dispose()
+   at Automation.MetaBot.Editor.UI.WaitDialog.CloseDialog()
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<LoadLogic>d__120.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at AutomationAnywhere.AppRobo.App.UserControls.MetaBotView.<MetaBotGallery_DoubleClick>d__151.MoveNext()
+2020-03-10 11:12:21,262 [ 1] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-03-10 11:12:21,262 [ 8] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-03-10 11:12:21,262 [ 1] INFO  Editor - Arguments > Count = 0
+
+2020-03-10 11:12:21,262 [ 8] INFO  Editor - Arguments > Count = 0
+
+2020-03-10 11:12:21,403 [ 1] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-03-10 11:12:21,403 [ 8] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-03-10 11:12:21,434 [ 1] INFO  MetaBotDesigner - frmMain:createTrayMenu  > End
+2020-03-10 11:12:21,465 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-03-10 11:12:21,528 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Resize  > Start
+2020-03-10 11:12:21,715 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > Start
+2020-03-10 11:12:21,715 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > Start
+2020-03-10 11:12:21,762 [ 1] INFO  MetaBotDesigner - frmMain:loadImages  > End
+2020-03-10 11:12:21,778 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > Start
+2020-03-10 11:12:21,778 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > Start
+2020-03-10 11:12:21,887 [ 1] INFO  MetaBotDesigner - frmMain:activateAppDNA  > End
+2020-03-10 11:12:21,887 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > Start
+2020-03-10 11:12:22,200 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Start
+2020-03-10 11:12:22,200 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > Permission check started for Metabot id=SGE - Funcoes.mbot
+2020-03-10 11:12:22,246 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-03-10 11:12:22,246 [ 1] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-03-10 11:12:22,356 [ 1] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-03-10 11:12:22,356 [ 1] INFO  MetaBotDesigner - frmMain:checkMetabotEditPermission  > End
+2020-03-10 11:12:22,356 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > Start
+2020-03-10 11:12:22,418 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-03-10 11:12:22,575 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > Start
+2020-03-10 11:12:22,793 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotViewConstructor  > End
+2020-03-10 11:12:22,793 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > Start
+2020-03-10 11:12:22,840 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadMetaBot  > End
+2020-03-10 11:12:23,028 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > Start
+2020-03-10 11:12:23,028 [ 1] INFO  MetaBotDesigner - MetaBotView:SetWidthWhileMainFormResize  > End
+2020-03-10 11:12:23,028 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-03-10 11:12:23,028 [ 1] INFO  MetaBotDesigner - frmMain:loadNewMetaBot  > End
+2020-03-10 11:12:23,044 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > Start
+2020-03-10 11:12:23,044 [ 1] INFO  MetaBotDesigner - frmMain:getCurrentView  > End
+2020-03-10 11:12:23,044 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > Start
+2020-03-10 11:12:23,044 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2020-03-10 11:12:23,231 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2020-03-10 11:12:23,231 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadAssetModule  > End
+2020-03-10 11:12:23,247 [ 1] INFO  MetaBotDesigner - frmMain:loadMetaBot  > End
+2020-03-10 11:12:23,247 [ 1] INFO  MetaBotDesigner - frmMain:performStartupOperation  > End
+2020-03-10 11:12:23,247 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > Start
+2020-03-10 11:12:23,247 [ 1] INFO  MetaBotDesigner - frmMain:getCommandLineArgsExcludingSelfExeName  > End
+2020-03-10 11:12:23,247 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > Start
+2020-03-10 11:12:23,247 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-10 11:12:23,247 [ 1] INFO  MetaBotDesigner - frmMain:SingleInstanceApplication_NewInstanceMessage  > End
+2020-03-10 11:12:23,247 [ 1] INFO  MetaBotDesigner - frmMain:frmMain_Shown  > End
+2020-03-10 11:12:26,637 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > Start
+2020-03-10 11:12:26,637 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_BeforeFilterChange  > End
+2020-03-10 11:12:26,653 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > Start
+2020-03-10 11:12:26,731 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > Start
+2020-03-10 11:12:27,137 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadFolderItems  > End
+2020-03-10 11:12:27,137 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > Start
+2020-03-10 11:12:27,137 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-03-10 11:12:27,137 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2020-03-10 11:12:27,137 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotViewChanged  > End
+2020-03-10 11:12:27,137 [ 1] INFO  MetaBotDesigner - MetaBotView:filterView_OnFilterChange > End
+2020-03-10 11:12:33,747 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-10 11:12:33,825 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > Start
+2020-03-10 11:12:33,825 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-10 11:12:33,841 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_ItemCheckedChanged > End
+2020-03-10 11:12:33,841 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-10 11:12:33,841 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > Start
+2020-03-10 11:12:33,841 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > Start
+2020-03-10 11:12:33,841 [ 1] INFO  MetaBotDesigner - frmMain:updateEditMenuItemState  > End
+2020-03-10 11:12:33,841 [ 1] INFO  MetaBotDesigner - frmMain:metaBotView_OnMetaBotItemSelectionChanged  > End
+2020-03-10 11:12:33,934 [ 1] INFO  MetaBotDesigner - MetaBotView:GetItemType  > Start
+2020-03-10 11:12:34,028 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > Start
+2020-03-10 11:12:34,028 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > Start
+2020-03-10 11:12:34,059 [ 9] INFO  Editor - IMetaBotRepositoryService.GetPermissions > Before Invoke
+2020-03-10 11:12:34,059 [ 9] INFO  Editor - Arguments > Count = 1
+Arg[0] = System.Collections.Generic.List`1[System.String]
+
+2020-03-10 11:12:34,168 [ 9] INFO  Editor - IMetaBotRepositoryService.GetPermissions > After Invoke
+2020-03-10 11:12:34,325 [ 1] INFO  MetaBotDesigner - MetaBotView:LoadLogic  > End
+2020-03-10 11:12:34,325 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_DoubleClick > End
+2020-03-10 11:12:35,434 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-10 11:12:35,434 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-10 11:17:21,435 [10] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-03-10 11:17:21,435 [10] INFO  Editor - Arguments > Count = 0
+
+2020-03-10 11:17:21,466 [10] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-03-10 11:22:21,491 [ 3] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-03-10 11:22:21,491 [ 3] INFO  Editor - Arguments > Count = 0
+
+2020-03-10 11:22:21,563 [ 3] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-03-10 11:27:21,592 [ 4] INFO  Editor - IUserService.GetPermissions > Before Invoke
+2020-03-10 11:27:21,592 [ 4] INFO  Editor - Arguments > Count = 0
+
+2020-03-10 11:27:21,705 [ 4] INFO  Editor - IUserService.GetPermissions > After Invoke
+2020-03-10 11:31:22,332 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > Start
+2020-03-10 11:31:22,332 [ 1] INFO  MetaBotDesigner - MetaBotView:MetaBotGallery_KeyUp > End
+2020-03-10 11:32:05,695 [15] ERROR Editor - MetaBotDesignerRoleWorker: workerFunc > task cancellation requested, exiting from loop.

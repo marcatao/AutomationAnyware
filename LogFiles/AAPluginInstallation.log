@@ -1,0 +1,235 @@
+﻿2019-10-22 16:54:50,726 [ 1] INFO  AAPluginInstallation - Program:Main > Start
+2019-10-22 16:54:50,741 [ 1] INFO  AAPluginInstallation - Program:Execute > Start
+2019-10-22 16:54:50,741 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Initializing Installation Form.
+2019-10-22 16:54:50,741 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Execute Command Line Argument.
+2019-10-22 16:54:50,741 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Executing.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Install Edge Plugin.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:installEdgePlugin  > Installing.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - UserAccountControlSettings:IsUserAccountControlOn  > Validating UAC.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - UserAccountControlSettings:IsUserAccountControlOn  > UAC Enable. Check Admin Rights.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - OperatingSystem:isWindows10Anniversary  > Checking if Windows 10 is Anniversary Edition.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - OperatingSystem:isWindows10Anniversary  > Checking if Windows 10 is Anniversary Edition.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:isExtensionsSupportDisable  > Validating Extension Support.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:installEdgePlugin  > Install Edge Plugin.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - PQMN > Installing Edge Extension.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - PQMN > Check Egde is Installed.
+2019-10-22 16:54:50,757 [ 1] INFO  AAPluginInstallation - PQMN > Getting Package Information.
+2019-10-22 16:54:53,038 [ 1] INFO  AAPluginInstallation - PQMN > Check Egde is not Running.
+2019-10-22 16:54:53,054 [ 1] FATAL AAPluginInstallation - PluginInstallationFactory:installEdgePlugin  > AAPluginInstallation.PluginInstallation.Edge.EdgePluginInstallationException: Error_ApplicationRunning
+   at AAPluginInstallation.PluginInstallation.Edge.EdgePluginInstallation.assertEdgeRunningProcess()
+   at AAPluginInstallation.PluginInstallation.Edge.EdgePluginInstallation.Install()
+   at Automation.PluginInstallation.PluginInstallationFactory.installEdgePlugin(String[] commandLineArgs)
+2020-03-13 13:53:26,112 [ 1] INFO  AAPluginInstallation - Program:Main > Start
+2020-03-13 13:53:26,112 [ 1] INFO  AAPluginInstallation - Program:Execute > Start
+2020-03-13 13:53:26,112 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Initializing Installation Form.
+2020-03-13 13:53:26,112 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Execute Command Line Argument.
+2020-03-13 13:53:26,112 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Executing.
+2020-03-13 13:53:26,128 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Initializing.
+2020-03-13 13:53:26,128 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Initializing Component.
+2020-03-13 13:53:26,190 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Update UI as Flex Installation Mode.
+2020-03-13 13:53:26,190 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUIAsflexInstallationMode  > Updating.
+2020-03-13 13:53:26,190 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUIAsflexInstallationMode  > Check if Flex Plugin is Installed.
+2020-03-13 13:53:26,190 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Validating Installation.
+2020-03-13 13:53:26,190 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Check Flash Plugin Debugger Player Installed.
+2020-03-13 13:53:26,190 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashPluginDebuggerPlayerInstalled  > Validating Flash Debugger Player Installation.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashPluginDebuggerPlayerInstalled  > Flash Debugger Player Installed.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Check IE Flash Player Installed.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsIeFlashPlayerInstalled  > Validating IE Flash Player Installation.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsIeFlashPlayerInstalled  > Check Flash IE Debugger Player Installed.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashIEDebuggerPlayerInstalled  > Validating Flash IE Debugger Player Installation.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Update UI.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Update AA UI.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI Plugin.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI.
+2020-03-13 13:53:26,206 [ 1] INFO  AAPluginInstallation - PQMN > Getting Package Information.
+2020-03-13 13:53:30,190 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI Plugin.
+2020-03-13 13:53:30,190 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Start Plugin Installation.
+2020-03-13 13:53:30,190 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Starting Plugin Installation.
+2020-03-13 13:53:30,190 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Repair Chrome Plugin.
+2020-03-13 13:53:30,190 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:repairExtension  > Repair Extension.
+2020-03-13 13:53:30,190 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Repairing.
+2020-03-13 13:53:30,206 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Get Chrome Extension Status.
+2020-03-13 13:53:30,206 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Getting Chrome Extension Status.
+2020-03-13 13:53:30,206 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Get Extensions.
+2020-03-13 13:53:30,300 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Get Chrome Extension Key.
+2020-03-13 13:53:30,300 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionKey  > Getting Chrome Extension Key.
+2020-03-13 13:53:30,300 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Check if Extension is Disabled.
+2020-03-13 13:53:30,300 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:isExtensionDisabled  > Validating Extension Disable.
+2020-03-13 13:53:30,300 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:isExtensionDisabled  > Extension is Disabled.
+2020-03-13 13:53:30,300 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Enable Extension.
+2020-03-13 13:53:30,300 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:enableExtension  > Enabling Extension.
+2020-03-13 13:54:01,565 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:enableExtension  > Get Extensions.
+2020-03-13 13:54:01,565 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:enableExtension  > Get Chrome Extension Key.
+2020-03-13 13:54:01,565 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionKey  > Getting Chrome Extension Key.
+2020-03-13 13:54:01,565 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:removeFromKnowDisabled  > Removing Known Disabled Key.
+2020-03-13 13:54:01,565 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:enableExtension  > Update Chrome Preferences.
+2020-03-13 13:54:01,597 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:installChromeExtension  > Register Native Messaging Host.
+2020-03-13 13:54:01,597 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:installChromeExtension  > Set Registry Value
+2020-03-13 13:54:01,597 [ 1] FATAL AAPluginInstallation - ChromeExtensionInstaller:installChromeExtension  > System.UnauthorizedAccessException: Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Google\Chrome\NativeMessagingHosts\automation.chrome.agent' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at Microsoft.Win32.Registry.SetValue(String keyName, String valueName, Object value, RegistryValueKind valueKind)
+   at Microsoft.Win32.Registry.SetValue(String keyName, String valueName, Object value)
+   at Automation.PluginInstallation.ChromeExtensionInstaller.registerNativeMessagingHost()
+2020-03-13 13:54:02,598 [ 1] ERROR AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Error has Occurred: Error_UnableToRegister.
+2020-03-13 13:54:02,599 [ 1] FATAL AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Automation.PluginInstallation.PluginInstallationException
+   at Automation.PluginInstallation.ManualPluginInstallation.StartPluginInstallation()
+   at Automation.PluginInstallation.PluginInstallationFactory.executeCommandLineArgument(String[] commandLineArgs)
+2020-03-13 13:53:40,675 [ 1] INFO  AAPluginInstallation - Program:Main > Start
+2020-03-13 13:53:40,675 [ 1] INFO  AAPluginInstallation - Program:Execute > Start
+2020-03-13 13:53:40,690 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Initializing Installation Form.
+2020-03-13 13:53:40,690 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Execute Command Line Argument.
+2020-03-13 13:53:40,690 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Executing.
+2020-03-13 13:53:40,690 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Initializing.
+2020-03-13 13:53:40,690 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Initializing Component.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Update UI as Flex Installation Mode.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUIAsflexInstallationMode  > Updating.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUIAsflexInstallationMode  > Check if Flex Plugin is Installed.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Validating Installation.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Check Flash Plugin Debugger Player Installed.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashPluginDebuggerPlayerInstalled  > Validating Flash Debugger Player Installation.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashPluginDebuggerPlayerInstalled  > Flash Debugger Player Installed.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Check IE Flash Player Installed.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsIeFlashPlayerInstalled  > Validating IE Flash Player Installation.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsIeFlashPlayerInstalled  > Check Flash IE Debugger Player Installed.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashIEDebuggerPlayerInstalled  > Validating Flash IE Debugger Player Installation.
+2020-03-13 13:53:40,753 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Update UI.
+2020-03-13 13:53:40,769 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI.
+2020-03-13 13:53:40,769 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Update AA UI.
+2020-03-13 13:53:40,769 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI Plugin.
+2020-03-13 13:53:40,769 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI.
+2020-03-13 13:53:40,769 [ 1] INFO  AAPluginInstallation - PQMN > Getting Package Information.
+2020-03-13 13:53:42,706 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI Plugin.
+2020-03-13 13:53:42,706 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Start Plugin Installation.
+2020-03-13 13:53:42,706 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Starting Plugin Installation.
+2020-03-13 13:53:42,706 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Repair Chrome Plugin.
+2020-03-13 13:53:42,722 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:repairExtension  > Repair Extension.
+2020-03-13 13:53:42,722 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Repairing.
+2020-03-13 13:53:42,722 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Get Chrome Extension Status.
+2020-03-13 13:53:42,722 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Getting Chrome Extension Status.
+2020-03-13 13:53:42,722 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Get Extensions.
+2020-03-13 13:53:42,784 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Get Chrome Extension Key.
+2020-03-13 13:53:42,784 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionKey  > Getting Chrome Extension Key.
+2020-03-13 13:53:42,784 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Check if Extension is Disabled.
+2020-03-13 13:53:42,784 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:isExtensionDisabled  > Validating Extension Disable.
+2020-03-13 13:53:42,784 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:isExtensionDisabled  > Extension is Disabled.
+2020-03-13 13:53:42,784 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Enable Extension.
+2020-03-13 13:53:42,784 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:enableExtension  > Enabling Extension.
+2020-03-13 13:54:09,456 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:enableExtension  > Get Extensions.
+2020-03-13 13:54:09,456 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:enableExtension  > Get Chrome Extension Key.
+2020-03-13 13:54:09,456 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionKey  > Getting Chrome Extension Key.
+2020-03-13 13:54:09,456 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:removeFromKnowDisabled  > Removing Known Disabled Key.
+2020-03-13 13:54:09,456 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:enableExtension  > Update Chrome Preferences.
+2020-03-13 13:54:09,472 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:installChromeExtension  > Register Native Messaging Host.
+2020-03-13 13:54:09,472 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:installChromeExtension  > Set Registry Value
+2020-03-13 13:54:09,472 [ 1] FATAL AAPluginInstallation - ChromeExtensionInstaller:installChromeExtension  > System.UnauthorizedAccessException: Access to the registry key 'HKEY_LOCAL_MACHINE\Software\Google\Chrome\NativeMessagingHosts\automation.chrome.agent' is denied.
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at Microsoft.Win32.Registry.SetValue(String keyName, String valueName, Object value, RegistryValueKind valueKind)
+   at Microsoft.Win32.Registry.SetValue(String keyName, String valueName, Object value)
+   at Automation.PluginInstallation.ChromeExtensionInstaller.registerNativeMessagingHost()
+2020-03-13 13:54:12,191 [ 1] ERROR AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Error has Occurred: Error_UnableToRegister.
+2020-03-13 13:54:12,191 [ 1] FATAL AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Automation.PluginInstallation.PluginInstallationException
+   at Automation.PluginInstallation.ManualPluginInstallation.StartPluginInstallation()
+   at Automation.PluginInstallation.PluginInstallationFactory.executeCommandLineArgument(String[] commandLineArgs)
+2020-03-13 13:54:21,066 [ 1] INFO  AAPluginInstallation - Program:Main > Start
+2020-03-13 13:54:21,081 [ 1] INFO  AAPluginInstallation - Program:Execute > Start
+2020-03-13 13:54:21,081 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Initializing Installation Form.
+2020-03-13 13:54:21,081 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Execute Command Line Argument.
+2020-03-13 13:54:21,081 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Executing.
+2020-03-13 13:54:21,081 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Initializing.
+2020-03-13 13:54:21,081 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Initializing Component.
+2020-03-13 13:54:21,144 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Update UI as Flex Installation Mode.
+2020-03-13 13:54:21,144 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUIAsflexInstallationMode  > Updating.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUIAsflexInstallationMode  > Check if Flex Plugin is Installed.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Validating Installation.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Check Flash Plugin Debugger Player Installed.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashPluginDebuggerPlayerInstalled  > Validating Flash Debugger Player Installation.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashPluginDebuggerPlayerInstalled  > Flash Debugger Player Installed.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Check IE Flash Player Installed.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsIeFlashPlayerInstalled  > Validating IE Flash Player Installation.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsIeFlashPlayerInstalled  > Check Flash IE Debugger Player Installed.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashIEDebuggerPlayerInstalled  > Validating Flash IE Debugger Player Installation.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Update UI.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Update AA UI.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI Plugin.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI.
+2020-03-13 13:54:21,159 [ 1] INFO  AAPluginInstallation - PQMN > Getting Package Information.
+2020-03-13 13:54:23,019 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI Plugin.
+2020-03-13 13:54:23,019 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Start Plugin Installation.
+2020-03-13 13:54:23,019 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Starting Plugin Installation.
+2020-03-13 13:54:23,019 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Repair Chrome Plugin.
+2020-03-13 13:54:23,034 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:repairExtension  > Repair Extension.
+2020-03-13 13:54:23,034 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Repairing.
+2020-03-13 13:54:23,034 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Get Chrome Extension Status.
+2020-03-13 13:54:23,034 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Getting Chrome Extension Status.
+2020-03-13 13:54:23,034 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Get Extensions.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Get Chrome Extension Key.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionKey  > Getting Chrome Extension Key.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Check if Extension is Disabled.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:isExtensionDisabled  > Validating Extension Disable.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:isExtensionDisabled  > Extension is Not Disabled.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Check if Extension is Black Listed.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Install Extension.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:InstallExtension  > Installing.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - UserAccountControlSettings:IsUserAccountControlOn  > Validating UAC.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - UserAccountControlSettings:IsUserAccountControlOn  > UAC Enable. Check Admin Rights.
+2020-03-13 13:54:23,081 [ 1] INFO  AAPluginInstallation - UserAccountControlSettings:IsUserAccountControlOn  > No Admin Rights.
+2020-03-13 13:54:28,378 [ 1] ERROR AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Error has Occurred: Error_UAC.
+2020-03-13 13:54:28,394 [ 1] FATAL AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Automation.PluginInstallation.PluginInstallationException
+   at Automation.PluginInstallation.ManualPluginInstallation.StartPluginInstallation()
+   at Automation.PluginInstallation.PluginInstallationFactory.executeCommandLineArgument(String[] commandLineArgs)
+2020-03-13 13:54:55,409 [ 1] INFO  AAPluginInstallation - Program:Main > Start
+2020-03-13 13:54:55,409 [ 1] INFO  AAPluginInstallation - Program:Execute > Start
+2020-03-13 13:54:55,409 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Initializing Installation Form.
+2020-03-13 13:54:55,409 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:initializeInstalltionForm  > Execute Command Line Argument.
+2020-03-13 13:54:55,425 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Executing.
+2020-03-13 13:54:55,425 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Initializing.
+2020-03-13 13:54:55,425 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Initializing Component.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Update UI as Flex Installation Mode.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUIAsflexInstallationMode  > Updating.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUIAsflexInstallationMode  > Check if Flex Plugin is Installed.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Validating Installation.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Check Flash Plugin Debugger Player Installed.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashPluginDebuggerPlayerInstalled  > Validating Flash Debugger Player Installation.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashPluginDebuggerPlayerInstalled  > Flash Debugger Player Installed.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsInstalled  > Check IE Flash Player Installed.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsIeFlashPlayerInstalled  > Validating IE Flash Player Installation.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsIeFlashPlayerInstalled  > Check Flash IE Debugger Player Installed.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - Flexinstallation:IsFlashIEDebuggerPlayerInstalled  > Validating Flash IE Debugger Player Installation.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:initialize  > Update UI.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI.
+2020-03-13 13:54:55,488 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Update AA UI.
+2020-03-13 13:54:55,503 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI Plugin.
+2020-03-13 13:54:55,503 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI.
+2020-03-13 13:54:55,503 [ 1] INFO  AAPluginInstallation - PQMN > Getting Package Information.
+2020-03-13 13:54:57,316 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:updateUI  > Updating UI Plugin.
+2020-03-13 13:54:57,316 [ 1] INFO  AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Start Plugin Installation.
+2020-03-13 13:54:57,316 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Starting Plugin Installation.
+2020-03-13 13:54:57,316 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Repair Chrome Plugin.
+2020-03-13 13:54:57,331 [ 1] INFO  AAPluginInstallation - ManualPluginInstallation:repairExtension  > Repair Extension.
+2020-03-13 13:54:57,331 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Repairing.
+2020-03-13 13:54:57,331 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Get Chrome Extension Status.
+2020-03-13 13:54:57,331 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Getting Chrome Extension Status.
+2020-03-13 13:54:57,331 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Get Extensions.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Get Chrome Extension Key.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionKey  > Getting Chrome Extension Key.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Check if Extension is Disabled.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:isExtensionDisabled  > Validating Extension Disable.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:isExtensionDisabled  > Extension is Not Disabled.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:getChromeExtensionStatus  > Check if Extension is Black Listed.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:RepairExtension  > Install Extension.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - ChromeExtensionInstaller:InstallExtension  > Installing.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - UserAccountControlSettings:IsUserAccountControlOn  > Validating UAC.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - UserAccountControlSettings:IsUserAccountControlOn  > UAC Enable. Check Admin Rights.
+2020-03-13 13:54:57,378 [ 1] INFO  AAPluginInstallation - UserAccountControlSettings:IsUserAccountControlOn  > No Admin Rights.
+2020-03-13 13:55:04,280 [ 1] ERROR AAPluginInstallation - ManualPluginInstallation:StartPluginInstallation  > Error has Occurred: Error_UAC.
+2020-03-13 13:55:04,285 [ 1] FATAL AAPluginInstallation - PluginInstallationFactory:executeCommandLineArgument  > Automation.PluginInstallation.PluginInstallationException
+   at Automation.PluginInstallation.ManualPluginInstallation.StartPluginInstallation()
+   at Automation.PluginInstallation.PluginInstallationFactory.executeCommandLineArgument(String[] commandLineArgs)

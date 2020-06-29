@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ROILOG>
+  <Version>1.0</Version>
+  <LOG NAM="Automation Anywhere\My Tasks\SGE - Integracao base producao.atmx" DT="11/26/2019" RUN="9" ROI="1478,34" />
+  <LOG NAM="Automation Anywhere\My Tasks\SGE - IMPORTACAO XMLS.atmx" DT="02/26/2020" RUN="8" ROI="794,18" />
+  <LOG NAM="Automation Anywhere\My Tasks\SGE - Integração bases Filial 1.atmx" DT="11/26/2019" RUN="3" ROI="164,16" />
+  <LOG NAM="Automation Anywhere\My Tasks\limpaendereços.atmx" DT="01/08/2020" RUN="32" ROI="68541,64" />
+  <LOG NAM="Automation Anywhere\My Tasks\SGE - PREÇO MEDIO.atmx" DT="02/07/2020" RUN="14" ROI="1003,33" />
+  <LOG NAM="Automation Anywhere\My Tasks\Dirf_2020_1.atmx" DT="02/21/2020" RUN="58" ROI="200427,51" />
+  <LOG NAM="Automation Anywhere\My Tasks\testeExcel.atmx" DT="02/17/2020" RUN="17" ROI="11872,53" />
+  <LOG NAM="Automation Anywhere\My Tasks\digitaDirf.atmx" DT="02/19/2020" RUN="42" ROI="14044,13" />
+  <LOG NAM="Automation Anywhere\My Tasks\teste_dirf.atmx" DT="02/19/2020" RUN="5" ROI="224,17" />
+  <LOG NAM="Automation Anywhere\My Tasks\DirfLayout.atmx" DT="02/26/2020" RUN="83" ROI="184759,14" />
+  <LOG NAM="Automation Anywhere\My Tasks\SGE - LANCAMENTO NF ENTRADA.atmx" DT="02/26/2020" RUN="4" ROI="167,5" />
+  <LOG NAM="Automation Anywhere\My Tasks\WhasUpMessage.atmx" DT="02/27/2020" RUN="48" ROI="2620,01" />
+  <LOG NAM="Automation Anywhere\My Tasks\NF ENTRADA.atmx" DT="03/26/2020" RUN="141" ROI="19776,7" />
+  <LOG NAM="Automation Anywhere\My Tasks\NF_ITENS.atmx" DT="03/06/2020" RUN="73" ROI="13610,83" />
+  <LOG NAM="Automation Anywhere\My Tasks\teste.atmx" DT="04/17/2020" RUN="21" ROI="485,81" />
+  <LOG NAM="Automation Anywhere\My Tasks\NF_CFOP.atmx" DT="03/26/2020" RUN="110" ROI="16700,62" />
+  <LOG NAM="Automation Anywhere\My Tasks\NF_ITENS_PLUS.atmx" DT="03/26/2020" RUN="75" ROI="11729,14" />
+  <LOG NAM="Automation Anywhere\My Tasks\NF_PAGAMENTO.atmx" DT="03/26/2020" RUN="70" ROI="8047,59" />
+  <LOG NAM="Automation Anywhere\My Tasks\NF_DOWNLOAD.atmx" DT="03/13/2020" RUN="1" ROI="31,67" />
+</ROILOG>
